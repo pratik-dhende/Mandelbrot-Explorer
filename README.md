@@ -1,6 +1,14 @@
 # Mandelbrot Explorer
  * A Unity Editor to explore the Mandelbrot fractal.
  * User can change the color gradient, zoom in, zoom out and rotate the fractal.
+ ## Controls
+ * W - UP
+ * A - LEFT
+ * S - DOWN
+ * D - RIGHT
+ * Q - ROTATE LEFT
+ * E - ROTATE RIGHT
+ * MIDDLE MOUSE BUTTON SCROLL - ZOOM IN AND OUT
  ## Images
  
 ![MandelbrotFull](https://user-images.githubusercontent.com/55596801/142043342-b2209efc-a9af-4032-89e7-95290b4f6447.png)
