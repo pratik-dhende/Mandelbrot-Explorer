@@ -14,7 +14,7 @@
  * MIDDLE MOUSE BUTTON SCROLL - Zoom in/out
 
  ## Demo (Click on the image)
-[![Mandelbrot Demo video](https://github.com/pratik-dhende/Mandelbrot-Explorer/assets/55596801/ceb7bb63-b082-4daa-8609-d709b0c1e6b3)](https://drive.google.com/drive/u/0/folders/1bfWw0MQ5XHtTn_zne38YTSZDKgFlbXGO)
+[![Mandelbrot Demo video](https://github.com/pratik-dhende/Mandelbrot-Explorer/assets/55596801/ceb7bb63-b082-4daa-8609-d709b0c1e6b3)](https://drive.google.com/file/d/1OwDmNSucSXRRKSX81DIrtmD990ohdoqU/view?usp=sharing)
  
  ## Images
  
