@@ -12,6 +12,10 @@
  * Q - Rotate Left
  * E - Rotate Right
  * MIDDLE MOUSE BUTTON SCROLL - Zoom in/out
+
+ ## Demo (Click on the image)
+[![Mandelbrot Demo video](https://github.com/pratik-dhende/Mandelbrot-Explorer/assets/55596801/ceb7bb63-b082-4daa-8609-d709b0c1e6b3)](https://drive.google.com/drive/u/0/folders/1bfWw0MQ5XHtTn_zne38YTSZDKgFlbXGO)
+ 
  ## Images
  
 ![MandelbrotFull](https://user-images.githubusercontent.com/55596801/142043342-b2209efc-a9af-4032-89e7-95290b4f6447.png)
